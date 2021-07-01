@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Environments
+.venv
+
+# Custom
+*.h5
+*.jpg
+*.npy

@@ -1,0 +1,7 @@
+keras==2.4.3
+keras_applications==1.0.8
+keras_preprocessing==1.1.0
+opencv-python==4.5.2.54
+pydicom==2.1.2
+scikit-image==0.18.1
+tensorflow==2.5.0
