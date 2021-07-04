@@ -8,11 +8,9 @@ In-depth explanations can be found in the paper (PloS One 2021):
 
 ## Requirements
 
-- Tensorflow
-- Keras
-- OpenCV
-- PyDicom
-- SciKit-Learn
+- [Keras](https://keras.io/)
+- [PyDicom](https://pydicom.github.io/)
+- [OpenCV](https://opencv.org/)
 
 ## Usage
 
