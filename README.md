@@ -2,9 +2,9 @@
 
 _ai_corona_ is a deep learning model for accurate diagnosis of COVID-19 in chest CT scans.
 
-Find in-depth explanations in the paper:
+In-depth explanations can be found in the paper (PloS One 2021):
 
-[_ai-corona_: Radiologist-Assistant Deep Learning Framework for COVID-19 Diagnosis in Chest CT Scans](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250952) (PloS One 2021).
+[**_ai-corona_: Radiologist-Assistant Deep Learning Framework for COVID-19 Diagnosis in Chest CT Scans**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250952)
 
 ## Requirements
 
